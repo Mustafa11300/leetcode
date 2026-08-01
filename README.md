@@ -12,6 +12,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mustafa11300/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mustafa11300/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mustafa11300/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mustafa11300/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mustafa11300/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mustafa11300/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mustafa11300/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mustafa11300/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mustafa11300/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mustafa11300/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mustafa11300/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mustafa11300/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mustafa11300/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mustafa11300/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +112,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mustafa11300/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mustafa11300/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mustafa11300/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mustafa11300/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mustafa11300/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -121,6 +126,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mustafa11300/leetcode/tree/master/0486-predict-the-winner) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mustafa11300/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -145,4 +151,9 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Mustafa11300/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mustafa11300/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mustafa11300/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
