@@ -129,4 +129,20 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mustafa11300/leetcode/tree/master/0486-predict-the-winner) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Mustafa11300/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Mustafa11300/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Mustafa11300/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Mustafa11300/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
