@@ -259,4 +259,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Mustafa11300/leetcode/tree/master/2029-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mustafa11300/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
