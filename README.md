@@ -19,6 +19,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mustafa11300/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mustafa11300/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mustafa11300/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mustafa11300/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mustafa11300/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mustafa11300/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mustafa11300/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -35,6 +36,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Mustafa11300/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mustafa11300/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mustafa11300/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mustafa11300/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mustafa11300/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mustafa11300/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mustafa11300/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -144,6 +146,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mustafa11300/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mustafa11300/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mustafa11300/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mustafa11300/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
