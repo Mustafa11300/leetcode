@@ -106,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Mustafa11300/leetcode/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mustafa11300/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Mustafa11300/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mustafa11300/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -194,6 +195,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Mustafa11300/leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Mustafa11300/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mustafa11300/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mustafa11300/leetcode/tree/master/1140-stone-game-ii) |
