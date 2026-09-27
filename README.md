@@ -5,6 +5,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mustafa11300/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mustafa11300/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Mustafa11300/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Mustafa11300/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mustafa11300/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Mustafa11300/leetcode/tree/master/1260-shift-2d-grid) |
@@ -181,6 +182,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Mustafa11300/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Mustafa11300/leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mustafa11300/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
